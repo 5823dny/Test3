@@ -1,5 +1,4 @@
-# Test3
-Play Hangmanimport random
+import random
 # Word list for the game
 words = ['python', 'hangman', 'programming', 'code', 'developer']
 
